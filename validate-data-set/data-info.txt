@@ -58,3 +58,10 @@ img57|urbanistički|irikbsatučin|vise
 img58|zastupljenost|setljapzotnus|vise
 img59|slepoočnica|opežlascinčo|vise
 img60|posluzavnik|klunigpažvos|vise
+img61|izlakirati|iltičkiazažr|telefon
+img62|komandovati|avkiordonmta|telefon
+img63|brodogradnja|adborgonjtadr|telefon
+img64|osvetoljubivi|oevbioljtivus|telefon
+img65|nacionalista|lcaoisniatna|telefon
+img66|istoričari||telefon
+img67|ispičutura|uapuzsirptič|telefon

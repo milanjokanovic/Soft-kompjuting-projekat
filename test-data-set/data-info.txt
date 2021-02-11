@@ -58,3 +58,11 @@ img57|sveštenstvo|tešsorvstenv|vise
 img58|pripitomiti|šimipititpro|vise
 img59|artiljerija|ritizejašaljr|vise
 img60|obrazovanje|enjragdžaovboz|vise
+img61|dominirati|iemankoriidt|telefon
+img62|zasićenost|osnašćiztenjs|telefon
+img63|ekskluzivno|zkinenjlokusv|telefon
+img64|nerazvijen|ianjiljzenver|telefon
+img65|pragmatizam|magpinjzaatrm|telefon
+img66|sanatorijum|ajrasšomtinu|telefon
+img67|pirotehnika|hranćipotkei|telefon
+img68|samouvereno|rumselonaveo|telefon
